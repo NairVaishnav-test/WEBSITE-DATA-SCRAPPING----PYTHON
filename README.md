@@ -26,3 +26,5 @@ Data Storage: CSV file
 Conclusion
 
 The project successfully demonstrates the use of Python web scraping techniques to automate the extraction of stock market data. The structured dataset enables efficient analysis of company performance based on key financial indicators such as market price, growth metrics, and profitability.
+
+The code for the web scrapping is available in the data.zip file.
